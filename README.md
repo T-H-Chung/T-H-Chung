@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ting-Hsuan Chung
 
 <!--
 **T-H-Chung/T-H-Chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
